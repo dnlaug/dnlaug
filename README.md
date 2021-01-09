@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/dnlaug/dnlaug/blob/master/git-act-banner.png)
+![Github Banner](https://github.com/dnlaug/dnlaug/blob/master/bn.png)
 
 ## What's up, I'm new here 🤪
 
